@@ -11,6 +11,7 @@ keras==2.2.4
 ## 1. Data preparation
 The dataset is BQ & LCQMC.  
 "The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification", https://www.aclweb.org/anthology/D18-1536/.
+
 "LCQMC: A Large-scale Chinese Question Matching Corpus", https://www.aclweb.org/anthology/C18-1166/.
 ## 2. Start the training process
 python siamese_NN.py  
