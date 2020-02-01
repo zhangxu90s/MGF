@@ -8,6 +8,8 @@ pandas==0.22.0
 tensorboard==1.12.0  
 tensorflow-gpu==1.12.0  
 keras==2.2.4  
+gensim==3.0.0
+
 ## 1. Data preparation
 The dataset is BQ & LCQMC.  
 "The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification", https://www.aclweb.org/anthology/D18-1536/.
