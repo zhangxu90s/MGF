@@ -17,3 +17,12 @@ The dataset is BQ & LCQMC.
 "LCQMC: A Large-scale Chinese Question Matching Corpus", https://www.aclweb.org/anthology/C18-1166/.
 ## 2. Start the training process
 python siamese_NN.py  
+# Reference
+If you find our source is useful, please consider citing our work.
+
+@inproceedings{zhang2020cssm,\
+  title={Chinese Sentence Semantic Matching Based on Multi-Granularity Fusion Model},\
+  author={Zhang, Xu and Lu, Wenpeng and Zhang, Guoqiang and Li, Fangfang and Shoujin, Wang},\
+  booktitle={The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining},\
+  year={2020},\
+}
