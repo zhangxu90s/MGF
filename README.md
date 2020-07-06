@@ -18,7 +18,7 @@ The dataset is BQ & LCQMC.
 ## 2. Start the training process
 python siamese_NN.py  
 # Reference
-If you find our source is useful, please consider citing our work.
+If you find our source useful, please consider citing our work.
 
 @inproceedings{zhang2020cssm,\
   title={Chinese Sentence Semantic Matching Based on Multi-Granularity Fusion Model},\
